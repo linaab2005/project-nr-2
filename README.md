@@ -1,5 +1,3 @@
-# Project Title
-
 # AI-based Plant Identifier
 
 # Summary
