@@ -33,22 +33,6 @@ maintenance, and useful facts.
 image1 = "https://www.freepik.com/free-vector/plant-pot-cartoon_28881307.htm"
 image2 = "https://www.freepik.com/premium-vector/green-plant-red-pot-3d-icon-houseplant-potted-plant-flower-home-garden-3d-vector-illustration-white-background-gardening-nature-decoration-botany-concept_42332064.htm"
 
-# HTML Image Resize Example
-html_example = '<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">'
-
-# Python Code Example
-def main():
-    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-    pop = [5615000, 5439000, 324000, 5080000, 9609000]  # Population data
-    fishers = [1891, 2652, 3800, 11611, 1757]  # Fishermen data
-
-    totPop = sum(pop)
-    totFish = sum(fishers)
-
-    for i in range(len(countries)):
-        print("%s %.2f%%" % (countries[i], 100.0))  # Placeholder for calculation
-
-main()
 
 # Data Sources and AI Methods
 data_sources = [
