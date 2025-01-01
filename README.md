@@ -1,6 +1,6 @@
 # AI-based Plant Identifier
 
-# Summary
+## Summary
 summary = """
 The idea is to create an AI app that can identify plants by analyzing pictures taken by the user. 
 The app will help people who love nature and gardening by gathering information about the plants in their surroundings faster.
